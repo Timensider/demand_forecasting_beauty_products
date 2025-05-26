@@ -65,9 +65,9 @@ LightGBM showed best generalization with low test error and minimal overfitting.
 
 ## Segment-Level Evaluation  
 
-### SKUs by Forecastability Clusters   
+### Forecastability of SKUs by Demand Clusters
 
-| Forecastability Cluster              | Excellent | Good | Weak |
+| Demand Cluster              | Excellent | Good | Weak |
 |-------------------------------------|-----------|------|------|
 | Low Demand / Stable                 | 129       | 36   | 7    |
 | Medium Demand / Stable              | 104       | —    | —    |
