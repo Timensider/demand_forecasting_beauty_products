@@ -3,7 +3,7 @@
 
 # 🔒 Datasets 
 *.csv
-# data/
+data/
 datasets/
 raw_data/
 input/
