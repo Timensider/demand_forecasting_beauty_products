@@ -2,8 +2,8 @@
 .ipynb_checkpoints/
 
 # 🔒 Datasets - never upload your original or test CSVs
-*.csv
-data/
+#*.csv
+#data/
 datasets/
 raw_data/
 input/
@@ -11,11 +11,11 @@ input/
 *.xlsx
 
 # 🔒 Large model artifacts (optional — remove if you want to share your model later)
-*.pkl
+#*.pkl
 *.joblib
 *.h5
 *.keras
-models/
+#models/
 
 # 🔒 Python cache
 __pycache__/
