@@ -65,7 +65,7 @@ LightGBM showed best generalization with low test error and minimal overfitting.
 
 ## Segment-Level Evaluation  
 
-### SKUs (= Product ID x Region x Channel) by Forecastability Clusters   
+### SKUs by Forecastability Clusters   
 
 | Forecastability Cluster              | Excellent | Good | Weak |
 |-------------------------------------|-----------|------|------|
@@ -73,6 +73,8 @@ LightGBM showed best generalization with low test error and minimal overfitting.
 | Medium Demand / Stable              | 104       | —    | —    |
 | High Demand / Volatile              | 18        | —    | —    |
 | Very High Demand / Highly Volatile | 6         | —    | —    |
+
+*SKU = Product ID x Region x Channel*
 
 ## Repository Layout   
 /data  
