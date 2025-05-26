@@ -65,7 +65,7 @@ LightGBM showed best generalization with low test error and minimal overfitting.
 
 ## Segment-Level Evaluation  
 
-### Forecastability Clusters   
+### SKUs (= Product ID x Region x Channel) by Forecastability Clusters   
 
 | Forecastability Cluster              | Excellent | Good | Weak |
 |-------------------------------------|-----------|------|------|
