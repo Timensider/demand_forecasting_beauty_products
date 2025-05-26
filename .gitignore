@@ -1,7 +1,7 @@
 # 🔒 Jupyter auto files
 .ipynb_checkpoints/
 
-# 🔒 Datasets - never upload your original or test CSVs
+# 🔒 Datasets 
 *.csv
 data/
 datasets/
@@ -10,7 +10,7 @@ input/
 *.xls
 *.xlsx
 
-# 🔒 Large model artifacts (optional — remove if you want to share your model later)
+# 🔒 Large model artifacts 
 *.pkl
 *.joblib
 *.h5
