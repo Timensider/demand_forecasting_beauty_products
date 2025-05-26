@@ -1,0 +1,31 @@
+# 🔒 Jupyter auto files
+.ipynb_checkpoints/
+
+# 🔒 Datasets - never upload your original or test CSVs
+*.csv
+data/
+datasets/
+raw_data/
+input/
+*.xls
+*.xlsx
+
+# 🔒 Large model artifacts (optional — remove if you want to share your model later)
+*.pkl
+*.joblib
+*.h5
+*.keras
+models/
+
+# 🔒 Python cache
+__pycache__/
+*.pyc
+
+# 🔒 Environment files (optional)
+.env
+*.env
+
+# 🔒 Logs, temp files
+*.log
+.DS_Store
+Thumbs.db
