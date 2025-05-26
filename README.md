@@ -1,4 +1,4 @@
-![Luxury Cosmetics Banner](assets/cosmetics.png)
+![Luxury Cosmetics Banner](assets/cosmetics_.png)
 
 # Beauty Product Demand Forecasting
 A Multi-Model Pipeline for Predicting Product Demand
