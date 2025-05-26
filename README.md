@@ -1,4 +1,4 @@
-# Beauty Demand Forecasting
+# Beauty Product Demand Forecasting
 A Multi-Model Pipeline for Predicting Product Demand
 
 This project builds a full machine learning pipeline to forecast weekly demand for global beauty products. It includes traditional models, deep learning, and deployment-ready code — all designed to reflect a real-world ML workflow from raw data to predictions.
@@ -63,9 +63,9 @@ Metrics used:
 
 LightGBM showed best generalization with low test error and minimal overfitting.
 
-## Segment-Level Evaluation
+## Segment-Level Evaluation  
 
-### Forecastability Clusters 
+### Forecastability Clusters   
 
 | Forecastability Cluster              | Excellent | Good | Weak |
 |-------------------------------------|-----------|------|------|
@@ -74,41 +74,41 @@ LightGBM showed best generalization with low test error and minimal overfitting.
 | High Demand / Volatile              | 18        | —    | —    |
 | Very High Demand / Highly Volatile | 6         | —    | —    |
 
-## Repository Layout
-/data
-    beauty_dataset_2yr_smoothed_realistic
-    train_encoded.parquet
-    test_encoded.parquet
-    train_featured_raw.parquet
-    test_featured_raw.parquet
-    train_featured_start.parquet
-    test_featured_start.parquet
-    train_reduced.parquet
-    test_reduced.parquet
-    X_test_lgb_comb.parquet
+## Repository Layout   
+/data  
+    beauty_dataset_2yr_smoothed_realistic  
+    train_encoded.parquet  
+    test_encoded.parquet  
+    train_featured_raw.parquet  
+    test_featured_raw.parquet  
+    train_featured_start.parquet  
+    test_featured_start.parquet  
+    train_reduced.parquet  
+    test_reduced.parquet  
+    X_test_lgb_comb.parquet  
 
-/models
-    lgb_comb_features.json
-    lgb_comb_model.pkl
+/models  
+    lgb_comb_features.json   
+    lgb_comb_model.pkl    
 
-/notebooks
-    project_1_eda_preprocessing.ipynb
-    project_2_demand_forecasting_models.ipynb
-    project_3_deployment.ipynb
+/notebooks  
+    project_1_eda_preprocessing.ipynb  
+    project_2_demand_forecasting_models.ipynb  
+    project_3_deployment.ipynb  
 
-/pipeline
-    predict.py
-    __init__.py    
+/pipeline  
+    predict.py  
+    __init__.py      
 
-README.md
-requirements.txt
-requirements_experiment.txt
-LICENSE
+README.md   
+requirements.txt   
+requirements_experiment.txt   
+LICENSE   
 
-## Author
-Eszter Varga – Data Scientist
-GitHub: @Timensider
-
-Disclaimer
-This project is for educational purposes only.
-It uses synthetic enhancements and artificial demand logic to simulate a real-world ML scenario.
+## Author   
+Eszter Varga – Data Scientist    
+GitHub: @Timensider   
+ 
+Disclaimer   
+This project is for educational purposes only.   
+It uses synthetic enhancements and artificial demand logic to simulate a real-world ML scenario.   
