@@ -24,13 +24,6 @@ Built to reflect real-world business forecasting needs — including volatility,
 
 ---
 
-> **Want to view the full notebook?**
-> - [Open in Colab](https://colab.research.google.com/github/Timensider/demand_forecasting_beauty_products/blob/main/notebooks/project_1_eda_preprocessing.ipynb)  
-> - [Try in nbviewer](https://nbviewer.org/url/raw.githubusercontent.com/Timensider/demand_forecasting_beauty_products/main/notebooks/project_1_eda_preprocessing.ipynb)  
-> - [View on GitHub](https://github.com/Timensider/demand_forecasting_beauty_products/blob/main/notebooks/project_1_eda_preprocessing.ipynb)
-
----
-
 ## Dive Deeper into Each Stage
 
 | Stage | Description | Link |
