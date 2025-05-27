@@ -15,9 +15,9 @@
 
 ## View the Notebook
 > **Notebook: EDA & Feature Engineering**  
-> - [Open in Colab](https://colab.research.google.com/github/Timensider/beauty-product-demand-forecasting/blob/main/notebooks/project_1_eda_preprocessing.ipynb)  
-> - [Try in nbviewer](https://nbviewer.org/url/raw.githubusercontent.com/Timensider/beauty-product-demand-forecasting/main/notebooks/project_1_eda_preprocessing.ipynb)  
-> - [View on GitHub](https://github.com/Timensider/beauty-product-demand-forecasting/blob/main/notebooks/project_1_eda_preprocessing.ipynb)
+> - [Open in Colab](https://colab.research.google.com/github/Timensider/demand_forecasting_beauty_products/blob/main/notebooks/project_1_eda_preprocessing.ipynb)  
+> - [Try in nbviewer](https://nbviewer.org/url/raw.githubusercontent.com/Timensider/demand_forecasting_beauty_products/main/notebooks/project_1_eda_preprocessing.ipynb)  
+> - [View on GitHub](https://github.com/Timensider/demand_forecasting_beauty_products/blob/main/notebooks/project_1_eda_preprocessing.ipynb)
 
 ---
 
