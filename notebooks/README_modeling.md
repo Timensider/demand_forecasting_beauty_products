@@ -15,7 +15,6 @@
 ---
 
 ## View the Notebook
-👉 
 > **Notebook: Model Training & Evaluation**  
 > - [Open in Colab](https://colab.research.google.com/github/Timensider/beauty-product-demand-forecasting/blob/main/notebooks/project_2_demand_forecasting_models.ipynb)  
 > - [Try in nbviewer](https://nbviewer.org/url/raw.githubusercontent.com/Timensider/beauty-product-demand-forecasting/main/notebooks/project_2_demand_forecasting_models.ipynb)  
