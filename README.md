@@ -60,4 +60,5 @@ Eszter Varga – Data Scientist
 GitHub: @Timensider
 
 ⚠️ Disclaimer
-This is an educational project built from publicly available data and synthetic demand logic. It reflects an applied ML workflow, not production data or commercial models.
+This is an educational project built from publicly available data and synthetic demand logic.   
+It reflects an applied ML workflow, not production data or commercial models.
