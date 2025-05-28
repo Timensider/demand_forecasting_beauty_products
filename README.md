@@ -32,6 +32,10 @@ Built to reflect real-world business forecasting needs — including volatility,
 | **Modeling & Segment Evaluation** | LightGBM, CNN, LSTM, plus performance by SKU cluster | [View README_modeling.md →](notebooks/README_modeling.md) |
 | **Deployment** | Model serialization, feature handling, production-ready `predict()` | [View README_deployment.md →](notebooks/README_deployment.md) |
 
+Important Note
+Due to GitHub rendering limitations, Notebook 2 (model training & comparison) may not display fully on GitHub or nbviewer.
+👉 For the best experience, open it directly in Colab, where all outputs and charts are fully visible.
+
 ---
 
 ## Dataset
